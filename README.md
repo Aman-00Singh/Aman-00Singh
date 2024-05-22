@@ -1,6 +1,19 @@
+
+<h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
+<h3 align="center">A Software Engineering Enthusiast from India</h3>
+
 <div align="center">
   <img height="300" src="https://wiidgets.vercel.app/api/banner?title=Aman%20Kumar%20Singh&bio=MERN%20Developer%20%F0%9F%A5%A4&twitter=AmanKum59047376"  />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-00Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-00Singh" /> </p>
+
+- 🌱 I’m currently learning **React and MERN Stack**
+
+- 💬 Ask me about **JavaScript,React,Nodejs,Express**
+
+- 📫 How to reach me **amansingh95336@gmail.com**
+
 
 ###
 
@@ -9,11 +22,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aman-00singh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/aman-00singh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-mishra-a08299225" height="30" width="40" />
   </a>
-  <a href="https://x.com/AmanKum59047376" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.leetcode.com/Aman-kumar-singh_001" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amansinglwln" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/amansinglwln" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amansinglwln" height="30" width="40" />
   </a>
 </div>
 
